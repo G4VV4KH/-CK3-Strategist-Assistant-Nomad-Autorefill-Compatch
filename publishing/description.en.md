@@ -23,6 +23,7 @@ Include your game and mod versions, load order and a short reproduction.
 ## Find this mod elsewhere
 
 - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3846587662)
+- [Paradox Mods](https://mods.paradoxplaza.com/mods/169835/Any)
 - [Nexus Mods](https://www.nexusmods.com/crusaderkings3/mods/468)
 - [GitHub](https://github.com/G4VV4KH/-CK3-Strategist-Assistant-Nomad-Autorefill-Compatch)
 
