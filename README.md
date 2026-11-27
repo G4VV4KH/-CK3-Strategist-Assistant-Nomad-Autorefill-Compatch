@@ -51,3 +51,7 @@ Include your game and mod versions, load order and a short reproduction.
 ## Credits
 
 Strategist Assistant and Nomad Autorefill are by G4VV4KH. AI assisted with integration, documentation and cover artwork.
+
+## Screenshots
+
+![Army planning and monthly nomadic reinforcement in the same Military window.](docs/images/01-combined-military-window.jpg)
